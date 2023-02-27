@@ -1,3 +1,4 @@
+import system/gc_common
 import prometheus/[registry, metric, collector]
 
 type
